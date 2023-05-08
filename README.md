@@ -10,3 +10,8 @@ All my ML trained models will be here.
 * AdaBoost
 * XGBoost
 * RandomForestClassifier
+## 3. Gemstone Price Prediction
+
+* MLP regression
+* Gradient Boosting Regression
+
